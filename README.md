@@ -7,8 +7,6 @@ Our project was based on the following paper: [Text-to-Table: A New Way of Infor
 
 We used the author's dataset from [Google Drive](https://drive.google.com/file/d/1zTfDFCl1nf_giX7IniY5WbXi9tAuEHDn/view?usp=sharing).
 
-For preprocessing, we use `fairseq` for BPE and binarization. You need to first download a BART model [here]
-
 # GPT
 
 ## Generate prediction
